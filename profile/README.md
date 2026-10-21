@@ -4,11 +4,13 @@ Open-source, agent-native scheduling for people and AI agents: booking pages, te
 calendar and video-meeting integrations, a REST API and a remote MCP server, licensed under
 AGPL-3.0.
 
-Hourmere is in active development and not ready for production use yet. Hourmere Cloud has not
-launched.
+Hourmere Cloud, operated by Cobaltmere, is in an invitation-only preview at
+[app.hourmere.com](https://app.hourmere.com). Sign-ups are currently closed.
+The open-source release for self-hosting is planned for November 30, 2026.
 
 - **Source code:** [hourmere/hourmere](https://github.com/hourmere/hourmere)
 - **Website:** [hourmere.com](https://hourmere.com)
+- **Questions:** support@hourmere.com
 - **Contributing:** read [CONTRIBUTING.md](https://github.com/hourmere/hourmere/blob/main/CONTRIBUTING.md),
   then open an [issue](https://github.com/hourmere/hourmere/issues)
 - **Security:** report vulnerabilities privately through the

@@ -6,7 +6,7 @@ AGPL-3.0.
 
 Hourmere Cloud, operated by Cobaltmere, is in an invitation-only preview at
 [app.hourmere.com](https://app.hourmere.com). Sign-ups are currently closed.
-Hourmere 1.0 for self-hosting was released on November 30, 2026: see the
+Hourmere 1.0.0 for self-hosting was released on November 30, 2026: see the
 [releases](https://github.com/hourmere/hourmere/releases) and the
 [self-hosting guide](https://hourmere.com/docs/self-hosting).
 
